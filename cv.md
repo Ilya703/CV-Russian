@@ -2,8 +2,8 @@
 
 ## **Контактная информация**
 
-* **Location**: Москва, Россия
-* **Phone**: +7 985 061 29 91
+* **Адрес**: Москва, Россия
+* **Телефон**: +7 985 061 29 91
 * **E-mail**: 
     * ilya.skobelev.04@mail.ru
     * enotn36@gmail.com
@@ -15,7 +15,7 @@
 
 Меня зовут Илья, мне 18 лет. Повышенный интерес к фронтенд-разработке появился еще во время первого коронавирусного локдауна. У меня было довольно много свободного времени, и я решил начать что-то новое. Я закончил курсы по HTML, CSS и JavaScript и нашел свою первую работу на фрилансе. Некоторое время я создавал сайты с элементами JavaScript. В целом у меня уже есть в портфолио более 35 выполненных проектов. Некоторые заказчики предложили мне дальнейшее сотрудничество.
 
-* Я разрабатывал проекты для таких компаний, как L'Oréal (LA POCHE POSAY, SkinCeuticals) и CERAVE, работая в[LightsOn](https://lights-on.pro/) в качестве удаленного фронтенд разработчика.
+* Я разрабатывал проекты для таких компаний, как L'Oréal (LA POCHE POSAY, SkinCeuticals) и CERAVE, работая в [LightsOn](https://lights-on.pro/) в качестве удаленного фронтенд разработчика.
 
 * Также я делал небольшие проекты (больше всего калькуляторы - [пример](https://ilya703.github.io/Calculator-Dollar-2/)) для [Siberia Tech](https://siberia-tech.ru/). 
 
@@ -36,8 +36,7 @@
 
 ## **Мое положение сейчас**
 
-Now I am studing in MISIS on Intelligence Data Analysis systems. At the moment I am still cooperating with LightsOn and Siberia Tech. I am still studying advance JavaScript/React on Udemy and RS School (JavaScript / Front-end stage 1)
-Сейчас я учусь в МИСиС на Интеллектуальных системах анализа данных. На данный момент я все еще сотрудничаю с LightsOn и Siberia Tech. Также я все еще изучаю продвинутый JavaScript / React в Udemy и RS School (JavaScript / Front-end этап 1)
+Сейчас я учусь в МИСиС на Интеллектуальных системах анализа данных. На данный момент я все еще сотрудничаю с LightsOn и Siberia Tech. Также я все еще изучаю продвинутый JavaScript / React в Udemy и RS School (JavaScript / Front-end stage 1)
 
 В 2021 году я сдал ЕГЭ и получил 98 баллов по информатике. Я воспользовался этой возможностью и стал работать куратором по информатике в Умскул (онлайн-школа для подготовки к ЕГЭ).
 
@@ -77,7 +76,7 @@ Now I am studing in MISIS on Intelligence Data Analysis systems. At the moment I
 
 ## **Образование**
 
-* МИСИС - Интеллектуальные ситсемы анализа данных (1 курс) *(в процессе)*
+* МИСИС - Интеллектуальные системы анализа данных (1 курс) *(в процессе)*
 * [Wayup](https://wayup.in/) - курсы HTML & CSS & JavaScript
 * [PASV](https://www.pasv.us/) - курсы по базовому JavaScript
 * Coursera - [курс](https://www.coursera.org/specializations/razrabotka-interfeysov) HTML & CSS & JavaScript от МФТИ & Яндекс
