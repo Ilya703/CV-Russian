@@ -1,0 +1,92 @@
+# **Скобелев Илья**
+
+## **Контактная информация**
+
+* **Location**: Москва, Россия
+* **Phone**: +7 985 061 29 91
+* **E-mail**: 
+    * ilya.skobelev.04@mail.ru
+    * enotn36@gmail.com
+* **Telegram**: @enotzef
+* **GitHub**: [Ilya703](https://github.com/Ilya703)
+* **Fl.ru**: [портфолио на фрилансе](https://www.fl.ru/users/ilyaskobelev04/portfolio/#/)
+
+## **Обо мне**
+
+Меня зовут Илья, мне 18 лет. Повышенный интерес к фронтенд-разработке появился еще во время первого коронавирусного локдауна. У меня было довольно много свободного времени, и я решил начать что-то новое. Я закончил курсы по HTML, CSS и JavaScript и нашел свою первую работу на фрилансе. Некоторое время я создавал сайты с элементами JavaScript. В целом у меня уже есть в портфолио более 35 выполненных проектов. Некоторые заказчики предложили мне дальнейшее сотрудничество.
+
+* Я разрабатывал проекты для таких компаний, как L'Oréal (LA POCHE POSAY, SkinCeuticals) и CERAVE, работая в[LightsOn](https://lights-on.pro/) в качестве удаленного фронтенд разработчика.
+
+* Также я делал небольшие проекты (больше всего калькуляторы - [пример](https://ilya703.github.io/Calculator-Dollar-2/)) для [Siberia Tech](https://siberia-tech.ru/). 
+
+У меня есть два больших командных проекта:
+
+* Однажды я участвовал в одном огромном проекте для L'Oréal. Мы работали в команде из 10-12 человек и создавали интерактивный многостраничный сайт. Работа была разделена на подзадачи, и каждый разрабатывал свою собственную часть. В конце мы объединили все части в конечный результат. Это был отличный опыт работы в команде и практики Git/GitHub. [Ссылка на GitHub](https://github.com/vonLiebermann/Tender)
+
+* Второй командный проект был связан с Adapt authoring tools (специальная платформа, позволяющая создавать курсы с помощью готовых компонентов). LightsOn помогал создавать курсы для Sber, это требовало добавления большего функционала в курсы. Наша задача состояла в том, чтобы создать новый компонент (игру-квиз). Команда состояла из 4 человек. Я был главным разработчиком, а другие помогали мне. Трудность заключалась в понимании документации этой платформы, потому что у них не было перевода на русский язык, и мне приходилось получать информацию на английском языке. Также этот проект был почти полностью сосредоточен на использовании JavaScript. [Ссылка на GitHub](https://github.com/Ilya703/adapt-game) - [проект](https://ilya703.github.io/game)
+
+После этих двух проектов я понял, что хочу продолжить изучение JavaScript. Я все еще изучаю JavaScript и уже начал React.
+
+Мои учебные проекты с использованием JavaScript:
+
+* [проект1](https://ilya703.github.io/Education-project-3/)
+* [проект2](https://ilya703.github.io/Education-project-2/)
+
+Несмотря на короткий срок во фронтенде, я думаю, что достиг больших успехов в разработке. И это вдохновляет меня идти вперед к моей большой мечте.
+
+## **Мое положение сейчас**
+
+Now I am studing in MISIS on Intelligence Data Analysis systems. At the moment I am still cooperating with LightsOn and Siberia Tech. I am still studying advance JavaScript/React on Udemy and RS School (JavaScript / Front-end stage 1)
+Сейчас я учусь в МИСиС на Интеллектуальных системах анализа данных. На данный момент я все еще сотрудничаю с LightsOn и Siberia Tech. Также я все еще изучаю продвинутый JavaScript / React в Udemy и RS School (JavaScript / Front-end этап 1)
+
+В 2021 году я сдал ЕГЭ и получил 98 баллов по информатике. Я воспользовался этой возможностью и стал работать куратором по информатике в Умскул (онлайн-школа для подготовки к ЕГЭ).
+
+## **Навыки**
+
+* HTML5
+* CSS3
+* JavaScript (ES6+, OOP, DOM)
+* Git/GitHub
+* Figma
+* C++
+* Python 
+
+## **Пример кода (обработчик событий)**
+
+```
+    tabsParent.addEventListener('click', (e) => {
+        const target = e.target;
+
+        if (target && target.classList.contains('tabheader__item')) {
+            tabs.forEach((item, i) => {
+                if (item == target) {
+                    hideTabcontent();
+                    showTabcontent(i);
+                }
+            });
+        }
+    });
+```
+
+## **Опыт работы**
+
+* Фриланс  —  фронтенд-разработчик  —  лето 2020, 2021
+* LightsOn  —  удаленный фронтенд-разработчик  —  лето 2020 - настоящее время
+* Siberia Tech  —  веб-верстальщик  —  лето 2021 - настоящее время
+* Умскул  —  куратор по информатике  —  декабрь 2021 - настоящее время
+
+## **Образование**
+
+* МИСИС - Интеллектуальные ситсемы анализа данных (1 курс) *(в процессе)*
+* [Wayup](https://wayup.in/) - курсы HTML & CSS & JavaScript
+* [PASV](https://www.pasv.us/) - курсы по базовому JavaScript
+* Coursera - [курс](https://www.coursera.org/specializations/razrabotka-interfeysov) HTML & CSS & JavaScript от МФТИ & Яндекс
+* Udemy - [advance JavaScript / React](https://www.udemy.com/course/javascript_full/) *(в процессе)*
+* [RS School](https://rs.school/) - JavaScript / Front-end курс stage 1 *(в процессе)*
+* Stepik - [Python](https://stepik.org/course/67/syllabus) и [C++](https://stepik.org/course/363/syllabus) курсы от ВШЭ
+* Sber - дизайн курс
+
+## **Языки**
+
+* Русский - C2 (native)
+* English - C1 (upper-intermediate)
