@@ -43,8 +43,8 @@
 ## **Навыки**
 
 * HTML5
-* CSS3
-* JavaScript (ES6+, OOP, DOM)
+* CSS3 (SASS/SCSS)
+* JavaScript (ES6+, OOP, DOM, AJAX)
 * Git/GitHub
 * Figma
 * C++
