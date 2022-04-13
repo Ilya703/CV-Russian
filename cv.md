@@ -9,6 +9,7 @@
     * enotn36@gmail.com
 * **Telegram**: @enotzef
 * **GitHub**: [Ilya703](https://github.com/Ilya703)
+* **Codewars** [профиль](https://www.codewars.com/users/Ilya703)
 * **Fl.ru**: [портфолио на фрилансе](https://www.fl.ru/users/ilyaskobelev04/portfolio/#/)
 
 ## **Обо мне**
