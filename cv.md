@@ -18,7 +18,7 @@
 
 * Я разрабатывал проекты для таких компаний, как L'Oréal (LA POCHE POSAY, SkinCeuticals) и CERAVE, работая в [LightsOn](https://lights-on.pro/) в качестве удаленного фронтенд разработчика.
 
-* Также я делал небольшие проекты (больше всего калькуляторы - [пример](https://ilya703.github.io/Calculator-Dollar-2/)) для [Siberia Tech](https://siberia-tech.ru/). 
+* Также я делал небольшие проекты (больше всего калькуляторы - [пример](https://ilya703.github.io/Calculator-Dollar/)) для [Siberia Tech](https://siberia-tech.ru/). 
 
 У меня есть два больших командных проекта:
 
