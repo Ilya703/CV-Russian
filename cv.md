@@ -46,6 +46,7 @@
 * HTML5
 * CSS3 (SASS/SCSS)
 * JavaScript (ES6+, OOP, DOM, AJAX)
+* Webpack
 * Git/GitHub
 * Figma
 * C++
