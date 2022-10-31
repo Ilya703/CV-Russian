@@ -52,31 +52,27 @@
 
 ## **Навыки**
 
-*
-   * HTML5
-   * CSS3 (SASS/SCSS)
-   * JavaScript (ES6+, OOP, DOM, AJAX)
-
-*
-   * React
-   * TypeScript
-   * Redux
-   * Backbone
-   * MobX
-   * Handlebars
-   * Marionette
-
-*
-   * Jest
-   * Oclif
-   * Webpack
-   * Git/GitHub/Bitbucket
-   * Charles 
-   * Figma
-
-*
-   * C++
-   * Python 
+* HTML5
+* CSS3 (SASS/SCSS)
+* JavaScript (ES6+, OOP, DOM, AJAX)
+<br>
+* React
+* TypeScript
+* Redux
+* Backbone
+* MobX
+* Handlebars
+* Marionette
+<br>
+* Jest
+* Oclif
+* Webpack
+* Git/GitHub/Bitbucket
+* Charles 
+* Figma
+<br>
+* C++
+* Python 
 
 ## **Мое положение сейчас**
 
