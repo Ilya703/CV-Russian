@@ -55,7 +55,8 @@
 * HTML5
 * CSS3 (SASS/SCSS)
 * JavaScript (ES6+, OOP, DOM, AJAX)
-|
+
+
 * React
 * TypeScript
 * Redux
@@ -63,14 +64,16 @@
 * MobX
 * Handlebars
 * Marionette
-|
+
+
 * Jest
 * Oclif
 * Webpack
 * Git/GitHub/Bitbucket
 * Charles 
 * Figma
-|
+
+
 * C++
 * Python 
 
