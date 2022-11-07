@@ -56,7 +56,7 @@
 * CSS3 (SASS/SCSS)
 * JavaScript (ES6+, OOP, DOM, AJAX)
 \
-\
+&nbsp;
 * React
 * TypeScript
 * Redux
@@ -65,7 +65,7 @@
 * Handlebars
 * Marionette
 \
-\      
+&nbsp;
 * Jest
 * Oclif
 * Webpack
@@ -73,11 +73,11 @@
 * Charles 
 * Figma
 \
-\
+&nbsp;
 * C++
 * Python
 \
-\
+&nbsp;
 * Работа по SCRUM
 * Опыт работы в распределенной команде (удаленная работа)
 
