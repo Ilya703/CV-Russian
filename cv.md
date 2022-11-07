@@ -54,17 +54,14 @@
 
 * HTML5
 * CSS3 (SASS/SCSS)
-* JavaScript (ES6+, OOP, DOM, AJAX)
-&nbsp;
+* JavaScript (ES6+, OOP, DOM, AJAX). 
 * React
 * TypeScript
 * Redux
 * Backbone
 * MobX
 * Handlebars
-* Marionette
-\
-&nbsp;
+* Marionette. 
 * Jest
 * Oclif
 * Webpack
