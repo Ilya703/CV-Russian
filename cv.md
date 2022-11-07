@@ -54,22 +54,30 @@
 
 * HTML5
 * CSS3 (SASS/SCSS)
-* JavaScript (ES6+, OOP, DOM, AJAX)<br />
+* JavaScript (ES6+, OOP, DOM, AJAX)
+\
+\
 * React
 * TypeScript
 * Redux
 * Backbone
 * MobX
 * Handlebars
-* Marionette<br />
+* Marionette
+\
+\      
 * Jest
 * Oclif
 * Webpack
 * Git/GitHub/Bitbucket
 * Charles 
-* Figma<br />
+* Figma
+\
+\
 * C++
-* Python<br />
+* Python
+\
+\
 * Работа по SCRUM
 * Опыт работы в распределенной команде (удаленная работа)
 
