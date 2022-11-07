@@ -55,7 +55,6 @@
 * HTML5
 * CSS3 (SASS/SCSS)
 * JavaScript (ES6+, OOP, DOM, AJAX)
-\
 &nbsp;
 * React
 * TypeScript
