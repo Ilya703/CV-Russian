@@ -24,7 +24,7 @@
 
 * Второй [командный проект](https://github.com/Ilya703/adapt-game) был связан с Adapt authoring tools (специальная платформа, позволяющая создавать курсы с помощью готовых компонентов). LightsOn помогал создавать курсы для Sber, это требовало добавления большего функционала в курсы. Наша задача состояла в том, чтобы создать новый компонент (игру-квиз). Команда состояла из 4 человек. Я был главным разработчиком, а другие помогали мне. Трудность заключалась в понимании документации этой платформы, потому что она была на английском языке (на тот момент это был первый опыт чтения документации на английском). Также этот проект был почти полностью сосредоточен на использовании JavaScript.
 
-После этих двух проектов я понял, что хочу продолжить изучение JavaScript и начать React.
+После этих двух проектов я понял, что хочу продолжить изучение JavaScript и начать изучать React.
 
 Мои учебные проекты с использованием JavaScript:
 
@@ -57,6 +57,7 @@
 &nbsp;
 * React
 * TypeScript
+* Node.js
 * Redux
 * Backbone
 * MobX
@@ -95,6 +96,7 @@
 * Coursera - [курс](https://www.coursera.org/specializations/razrabotka-interfeysov) HTML & CSS & JavaScript от МФТИ & Яндекс
 * Udemy - [advance JavaScript / React](https://www.udemy.com/course/javascript_full/)
 * [RS School](https://rs.school/) - JavaScript / Front-end курс stage 1
+* [RS School](https://rs.school/) - Node.js
 * Stepik - [Python](https://stepik.org/course/67/syllabus) и [C++](https://stepik.org/course/363/syllabus) курсы от ВШЭ
 * Sber - дизайн курс
 
