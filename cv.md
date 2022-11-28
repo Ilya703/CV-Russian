@@ -66,6 +66,7 @@
 &nbsp;
 * Jest
 * Oclif
+* ESLint
 * Webpack
 * Git/GitHub/Bitbucket
 * Charles 
