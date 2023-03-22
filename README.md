@@ -1,3 +1,3 @@
-# My Russian CV
+# My English CV (irrelevant)
 
-https://Ilya703.github.io/CV/cv
+### 📃 [CV page](https://Ilya703.github.io/CV/cv)
